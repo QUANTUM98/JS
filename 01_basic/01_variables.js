@@ -7,7 +7,7 @@ let accountState;
 // accountID= 123
 // console.log(accountID);
 /*
-Prefer not use var because of issue in block scope and functional scope
+Prefer not use var becau >se of issue in block scope and functional scope
 */
 
 
