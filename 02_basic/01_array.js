@@ -29,4 +29,11 @@ const allheroes = [...marvel,...dc];//spread operator is used
 
 const d= [1,2,3,[4,5,6,7],[8,9,[10,11]]]
 const e = d.flat(Infinity);
-console.log(e)
+// console.log(e)
+
+console.log(Array.from("Abhishek"))
+let marks1= 100;
+let marks2= 90;
+let marks3= 95;
+console.log(Array.of(marks1,marks2,marks3))
+
