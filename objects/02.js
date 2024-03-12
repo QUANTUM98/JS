@@ -67,6 +67,7 @@ const {courseInstructor: instructor} = course // Object de-structure
 
 // console.log(courseInstructor);
 console.log(instructor);
+// console.log(typeof (null))
 
 // {
 
